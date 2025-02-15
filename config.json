@@ -1,0 +1,20 @@
+{
+    "CLIENTE_TOKEN": "ID_BOT",
+    "clienteId": "ID",
+    "guildId": "ID_CHANNEL",
+    "welcome_channel": "ID_CHANNEL",
+    "rules_channel": "ID_CHANNEL",
+    "general_channel": "ID_CHANNEL",
+    "roles_channel": "ID_CHANNEL",
+    "welcome_image_url": "URL_DE_LA_IMAGEN_DE_BIENVENIDA_OPCIONAL",
+    "welcome_messages": [
+        "¡Bienvenido/a a bordo, viajero/a!",
+        "¡Un nuevo héroe se une a nuestra causa!"
+    ],
+    "staff_roles": [
+        "ID_DEL_ROL_DEL_STAFF_1",
+        "ID_DEL_ROL_DEL_STAFF_2"
+    ],
+    "featured_event": "¡Gran torneo de videojuegos este fin de semana!",
+    "private_welcome_message": "¡Como agradecimiento por unirte, revisa el canal de anuncios para una sorpresa!"
+}
