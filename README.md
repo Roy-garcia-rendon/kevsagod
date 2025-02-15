@@ -1,5 +1,5 @@
 ![alt text](image-1.png)
-Bot de discord desarollada en js con node jsutilizando la API de discord, este vot fue creado para el servidor de Discord del youtuber kevsadilla 
+Bot de discord desarollada en js con node jsutilizando la API de discord, este bot fue creado para el servidor de Discord del youtuber kevsadilla 
 
 ![alt text](image-2.png)
 
